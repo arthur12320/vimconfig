@@ -79,7 +79,7 @@ set listchars=tab:›\ ,trail:•,extends:#,nbsp:.
 set number
 
 " Set status line display
-set statusline=\ F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l\ \ Column:\ %c
+"set statusline=\ F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l\ \ Column:\ %c
 
 " Encoding
 set encoding=utf-8
